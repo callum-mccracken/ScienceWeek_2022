@@ -12,4 +12,4 @@ Models:
 - cut-away (may need to make this custom)
 - small model of wheels in context with main detector
 
-Back to [[README]]
+[Back to readme](README.md)

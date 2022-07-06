@@ -4,6 +4,6 @@
 
 ## The Plan
 
-- have something for [[nsw]] 
-- something for analyses (inside an [[event]])
-- also [[itk]] if time
+- have something for [nsw](nsw.md) 
+- something for analyses (inside an [event](event.md))
+- also [itk](itk.md) if time

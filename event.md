@@ -18,6 +18,4 @@ How to get event data (I'm working on this):
 - export as obj to import to aero
 
 
-
-
-Back to [[README]]
+[Back to readme](README.md)
