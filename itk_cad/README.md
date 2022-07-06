@@ -1,6 +1,6 @@
 Things currently in here:
 
-- `petal.stp`: to use for exploded view
+- `petal.glb`: to use for exploded view
 
 Things to come later:
 
