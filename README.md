@@ -6,4 +6,4 @@
 
 - have something for [nsw](nsw.md) 
 - something for analyses (inside an [event](event.md))
-- also [itk](itk.md) if time
+- also [itk](itk.md) things (still need a Luise talk)
